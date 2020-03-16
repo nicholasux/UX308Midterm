@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Martin Garix
+title: Martin Garrix
 lang: en
 date: '2020-03-15T20:27:32-04:00'
 thumbnail: /images/uploads/2560px-martin_garrix_-_veld_festival.jpg
